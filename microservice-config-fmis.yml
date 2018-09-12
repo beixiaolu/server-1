@@ -5,8 +5,13 @@ microserviceConfig:
       objectName:
         SecurityObject:
           method: Login
-   
+   microservice-BZPT:
+      BZServer:
+      context: EnterpriseServer
+      objectName:
+         
 #  BZServer:
+:
 #  ZJServer:
 #  JYPTServer:
 
